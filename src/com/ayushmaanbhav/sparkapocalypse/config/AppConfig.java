@@ -17,7 +17,7 @@ public class AppConfig {
     public static final String ROOT = System.getProperty("user.dir");
 
     // Resources folder
-    public static final File RESOURCES_FOLDER = new File(ROOT, "src/com/ayushmaanbhav/sparkapocalypse/resources");
+    public static final File RESOURCES_FOLDER = new File(ROOT, "resources");
 
     // Model files
     public static final File CONE_MODEL_FILE           = new File(RESOURCES_FOLDER, "cone.obj");
