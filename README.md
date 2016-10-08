@@ -1,6 +1,7 @@
 # SparkApocalypse
 
 Demonstration of Sparks in OpenGL.
+Developed for DreamWorks hackathon (https://github.com/usama-ghufran/fx_challenge_hackathon)
 
 An app which implements various concepts of maths, physics and rendering along with head humming creavity, to show a beautiful world, containing sparks and er... some other objects like a rabbit for example ^_^
 
