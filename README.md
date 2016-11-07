@@ -14,4 +14,4 @@ This includes:
 
 Youtube Video: 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/0zWc8rmy1s0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/0zWc8rmy1s0" frameborder="0" allowfullscreen></iframe>
