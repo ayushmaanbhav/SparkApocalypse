@@ -14,4 +14,4 @@ This includes:
 
 Youtube Video: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0zWc8rmy1s0/0.jpg)](https://www.youtube.com/watch?v=0zWc8rmy1s0)
+[![Spark Apocalypse](https://img.youtube.com/vi/0zWc8rmy1s0/0.jpg)](https://www.youtube.com/watch?v=0zWc8rmy1s0)
