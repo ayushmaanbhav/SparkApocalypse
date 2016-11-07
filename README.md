@@ -12,4 +12,6 @@ This includes:
 * Animation effects so the sparks look real.
 
 
-Youtube Video: https://youtu.be/0zWc8rmy1s0
+Youtube Video: 
+
+<iframe width="854" height="480" src="https://youtu.be/0zWc8rmy1s0" frameborder="0" allowfullscreen></iframe>
